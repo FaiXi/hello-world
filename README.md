@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi peeps!
+Faizan here, I like Designing and Coding.
